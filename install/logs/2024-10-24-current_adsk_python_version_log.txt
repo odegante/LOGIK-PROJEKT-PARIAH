@@ -1,0 +1,90 @@
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:23:16 - Reading preference file:
+  2024-10-24 13:23:16 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - Preference file loaded:
+  2024-10-24 13:23:16 - /opt/Autodesk/python/2025.2/bin/python
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - Analyzing directory: /opt/Autodesk/python
+  2024-10-24 13:23:16 - Sorted contents of /opt/Autodesk/python:
+  2024-10-24 13:23:16 - 2025.2
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - The highest version is: 2025.2
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - Python version 2025.2 is available and executable
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - No update needed.
+  2024-10-24 13:23:16 - 
+  2024-10-24 13:23:16 - Preference file already contains the latest version:
+  2024-10-24 13:23:16 - /opt/Autodesk/python/2025.2/bin/python
+
++ --------------------------------------------------------------------------- +
+
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:28:54 - Reading preference file:
+  2024-10-24 13:28:54 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - Preference file loaded:
+  2024-10-24 13:28:54 - /opt/Autodesk/python/2025.2/bin/python
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - Analyzing directory: /opt/Autodesk/python
+  2024-10-24 13:28:54 - Sorted contents of /opt/Autodesk/python:
+  2024-10-24 13:28:54 - 2025.2
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - The highest version is: 2025.2
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - Python version 2025.2 is available and executable
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - No update needed.
+  2024-10-24 13:28:54 - 
+  2024-10-24 13:28:54 - Preference file already contains the latest version:
+  2024-10-24 13:28:54 - /opt/Autodesk/python/2025.2/bin/python
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:28:54 - Creating macOS application: LOGIK-PROJEKT.app
+  2024-10-24 13:28:54 - Creating the macOS application components
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:28:54 - Creating LOGIK-PROJEKT shell script for linux: run_logikprojekt_linux.sh
+  2024-10-24 13:28:54 - Making the file executable: run_logikprojekt_linux.sh
+  2024-10-24 13:28:54 - Creating macOS application shell script: run_logikprojekt_macos
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:28:54 - Creating desktop entry file: LOGIK-PROJEKT.desktop
+  2024-10-24 13:28:54 - Making the file executable: LOGIK-PROJEKT.desktop
+  2024-10-24 13:28:54 - Moving the file to ~/.local/share/applications/
+  2024-10-24 13:28:54 - File 'LOGIK-PROJEKT.desktop' has been created and made executable.
+
++ --------------------------------------------------------------------------- +
+
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-24 13:29:33 - Reading preference file:
+  2024-10-24 13:29:33 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - Preference file loaded:
+  2024-10-24 13:29:33 - /opt/Autodesk/python/2025.2/bin/python
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - Analyzing directory: /opt/Autodesk/python
+  2024-10-24 13:29:33 - Sorted contents of /opt/Autodesk/python:
+  2024-10-24 13:29:33 - 2025.2
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - The highest version is: 2025.2
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - Python version 2025.2 is available and executable
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - No update needed.
+  2024-10-24 13:29:33 - 
+  2024-10-24 13:29:33 - Preference file already contains the latest version:
+  2024-10-24 13:29:33 - /opt/Autodesk/python/2025.2/bin/python
+
++ --------------------------------------------------------------------------- +
+

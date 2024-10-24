@@ -1,0 +1,94 @@
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 13:08:16 - Reading preference file:
+  2024-10-23 13:08:16 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-23 13:08:16 - 
+  2024-10-23 13:08:16 - Preference file loaded:
+  2024-10-23 13:08:16 - 
+  2024-10-23 13:08:16 - 
+  2024-10-23 13:08:16 - Analyzing directory: /opt/Autodesk/python
+  2024-10-23 13:08:16 - Sorted contents of /opt/Autodesk/python:
+  2024-10-23 13:08:16 - 2024.1.2
+  2024-10-23 13:08:16 - 2024.1
+  2024-10-23 13:08:16 - 2023.3.2
+  2024-10-23 13:08:16 - 
+  2024-10-23 13:08:16 - The highest version is: 2024.1.2
+  2024-10-23 13:08:16 - 
+  2024-10-23 13:08:16 - Python version 2024.1.2 is available and executable
+  2024-10-23 13:08:16 - Updated preference file with:
+  2024-10-23 13:08:16 - /opt/Autodesk/python/2024.1.2/bin/python
+  2024-10-23 13:08:16 - 
+
++ --------------------------------------------------------------------------- +
+
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 14:08:13 - Reading preference file:
+  2024-10-23 14:08:13 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-23 14:08:13 - 
+  2024-10-23 14:08:13 - Preference file loaded:
+  2024-10-23 14:08:13 - /opt/Autodesk/python/2024.1.2/bin/python
+  2024-10-23 14:08:13 - 
+  2024-10-23 14:08:13 - Analyzing directory: /opt/Autodesk/python
+  2024-10-23 14:08:13 - Sorted contents of /opt/Autodesk/python:
+  2024-10-23 14:08:13 - 2025.2
+  2024-10-23 14:08:13 - 2024.1.2
+  2024-10-23 14:08:13 - 2024.1
+  2024-10-23 14:08:13 - 2023.3.2
+  2024-10-23 14:08:13 - 
+  2024-10-23 14:08:13 - The highest version is: 2025.2
+  2024-10-23 14:08:13 - 
+  2024-10-23 14:08:13 - Python version 2025.2 is available and executable
+  2024-10-23 14:08:13 - Updated preference file with:
+  2024-10-23 14:08:13 - /opt/Autodesk/python/2025.2/bin/python
+  2024-10-23 14:08:13 - 
+
++ --------------------------------------------------------------------------- +
+
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 14:08:36 - Reading preference file:
+  2024-10-23 14:08:36 - /home/odegante@int.pariahcreative.com/workspace/GitHub/LOGIK-PROJEKT-PARIAH/install/current_adsk_python_version.pref
+  2024-10-23 14:08:36 - 
+  2024-10-23 14:08:36 - Preference file loaded:
+  2024-10-23 14:08:36 - /opt/Autodesk/python/2025.2/bin/python
+  2024-10-23 14:08:36 - 
+  2024-10-23 14:08:36 - Analyzing directory: /opt/Autodesk/python
+  2024-10-23 14:08:36 - Sorted contents of /opt/Autodesk/python:
+  2024-10-23 14:08:36 - 2025.2
+  2024-10-23 14:08:37 - 2024.1.2
+  2024-10-23 14:08:37 - 2024.1
+  2024-10-23 14:08:37 - 2023.3.2
+  2024-10-23 14:08:37 - 
+  2024-10-23 14:08:37 - The highest version is: 2025.2
+  2024-10-23 14:08:37 - 
+  2024-10-23 14:08:37 - Python version 2025.2 is available and executable
+  2024-10-23 14:08:37 - 
+  2024-10-23 14:08:37 - No update needed.
+  2024-10-23 14:08:37 - 
+  2024-10-23 14:08:37 - Preference file already contains the latest version:
+  2024-10-23 14:08:37 - /opt/Autodesk/python/2025.2/bin/python
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 14:08:37 - Creating macOS application: LOGIK-PROJEKT.app
+  2024-10-23 14:08:37 - Creating the macOS application components
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 14:08:37 - Creating LOGIK-PROJEKT shell script for linux: run_logikprojekt_linux.sh
+  2024-10-23 14:08:37 - Making the file executable: run_logikprojekt_linux.sh
+  2024-10-23 14:08:37 - Creating macOS application shell script: run_logikprojekt_macos
+
++ --------------------------------------------------------------------------- +
+
+  2024-10-23 14:08:37 - Creating desktop entry file: LOGIK-PROJEKT.desktop
+  2024-10-23 14:08:37 - Making the file executable: LOGIK-PROJEKT.desktop
+  2024-10-23 14:08:37 - Moving the file to ~/.local/share/applications/
+  2024-10-23 14:08:37 - File 'LOGIK-PROJEKT.desktop' has been created and made executable.
+
++ --------------------------------------------------------------------------- +
+
